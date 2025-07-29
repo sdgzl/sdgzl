@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sdgzl
+👋 Hi, I’m @sdgzl
 👀 I’m interested in computer vision,cyber security, digital forensics,  machine learning, artificial intelligence, web designing, and web scraping.
 
 💞️ I’m looking to collaborate on projects related to AI, machine learning, and data science, especially in the field of computer vision and digital forensics.
