@@ -45,3 +45,21 @@ I'm actively looking to contribute to open-source projects or professional colla
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdgzl&show_icons=true&theme=radical)
+### 🛠️ Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-orange?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge)
+
+---
+
+### 📈 GitHub Activities
+
+<!-- Eğer aşağıdaki grafikler görünmezse, GitHub üzerinde henüz yeterli public verin oluşmamış olabilir. -->
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdgzl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgzl&layout=compact&theme=tokyonight" />
+</p>
